@@ -60,8 +60,10 @@ Import the `Modal` component into your main app component (e.g., `App.svelte`).
 </style>
 
 ```
-##Example
+## Example
+
 [svelte-easy-modal-example](https://github.com/mrwan84/svelte-easy-modal-example)
+
 ## API
 
 ### Component API
