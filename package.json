@@ -1,0 +1,23 @@
+{
+  "name": "svelte-easy-modal",
+  "version": "1.0.0",
+  "description": "the simplest svelte modal",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrwan84/svelte-easy-modal"
+  },
+  "keywords": [
+    "svelte",
+    "modal",
+    "popup",
+    "dialog"
+  ],
+  "author": "Marwan Alsouki",
+  "homepage": "https://github.com/mrwan84",
+  "license": "MIT"
+}
